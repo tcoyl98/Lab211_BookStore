@@ -1,0 +1,10 @@
+TG01;Nguyen Du
+TG02;Ho Xuan Huong
+TG03;Nguyen Trai
+TG04;Thach Lam
+TG05;Nam Cao
+TG06;Xuan Quynh
+TG07;To Huu
+TG08;Ngo Tat To
+TG09;Xuan Dieu
+TG10;Huy Can

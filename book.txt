@@ -1,0 +1,8 @@
+TK1,Truyen Kieu,65.3,TG01
+CP2,Chi Pheo,34.2,TG05
+BT3,Banh Troi Nuoc,55.4,TG02
+TB4,Tim Bo,67.1,TG06
+BN5,Binh Ngo Dai Cao,21.7,TG03
+LT6,Lua Thieng,45.4,TG10
+TD8,Tat Den,45.0,TG08
+TK2,Truyen Kieu Hai,15.5,TG09
