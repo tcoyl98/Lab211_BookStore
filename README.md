@@ -10,6 +10,3 @@
 	* Search book by book name or author name
 	* Store data to file
 	* Delete author
-
-
-
